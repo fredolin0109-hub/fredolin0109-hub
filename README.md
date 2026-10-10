@@ -98,6 +98,20 @@ open_for: Software Engineering Internships & Collaborative Technical Projects
 
 ---
 
+### 🐍 Contribution Activity Grid
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
 ### 📊 Engineering Activity & Telemetry
 
 <div align="center">
