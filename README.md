@@ -1,89 +1,100 @@
 <div align="center">
 
-  # Hi there, I'm Fredolin 👋
-  
+  <!-- Top Hero Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b14,40:240046,70:3c1361,100:7b2cbf&height=220&section=header&text=NIGISH%20FREDOLIN&fontSize=52&fontColor=e0aaff&animation=twinkling&desc=%E2%9A%A1%20WAKANDA%20FOREVER%20%E2%80%A2%20CODING%20FOREVER%20%F0%9F%99%85%E2%80%8D%E2%99%82%EF%B8%8F&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Nigish Fredolin Wakanda Header" />
+
+  <br/>
+
+  <!-- Iconic Wakanda Claw Necklace -->
+  <img src="assets/wakanda-necklace.svg" width="90%" alt="Wakanda Vibranium Claw Necklace" />
+
+  <br/><br/>
+
+  <!-- Animated Black Panther Mask -->
+  <img src="assets/black-panther-mask.svg" width="160" alt="Black Panther Mask with Vibranium Kinetic Glow" />
+
+  <br/><br/>
+
+  <!-- Animated Speech Banner -->
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=1000&color=C77DFF&background=0B0B1400&center=true&vCenter=true&width=550&lines=%E2%9A%94%EF%B8%8F+CODING+FOREVER+%F0%9F%99%85%E2%80%8D%E2%99%82%EF%B8%8F;%E2%9A%A1+VIBRANIUM-POWERED+DEVELOPER;%F0%9F%94%A5+SOLVING+PROBLEMS+IN+C%2B%2B%2C+PYTHON+%26+JAVA;%F0%9F%9B%A1%EF%B8%8F+IN+TIMES+OF+CRISIS%2C+THE+WISE+BUILD+BRIDGES" alt="Black Panther - Coding Forever" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br/><br/>
-
-  <!-- Social Badges -->
-  <a href="mailto:fredolin0109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <!-- Badges in Obsidian & Purple -->
+  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=7B2CBF&style=for-the-badge&label=VIBRANIUM+POWER" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nigish-fredolin-87185837a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="mailto:fredlin0109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3C1361?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  &nbsp;
+  <a href="https://github.com/fredolin0109-hub">
+    <img src="https://img.shields.io/badge/GitHub-0B0B14?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub" />
   </a>
 
 </div>
 
-<hr/>
+<br/>
 
-### 🚀 About Me
+---
+
+### 🧬 Vibranium Protocols (`About Me`)
 
 ```yaml
-name: Fredolin
-role: Aspiring Software Engineer & Student
-interests: [Full-Stack Web Development, System Architecture, Algorithms]
-current_focus: Building modern web applications & contributing to open source
-looking_for: Software Engineering Internships & Entry-Level Roles
-fun_fact: "Turning coffee and curiosity into clean, functional code ☕💻"
+identity: Nigish Fredolin
+status: Aspiring Software Engineer & Problem Solver
+motto: "In times of crisis, the wise build bridges, while the foolish build barriers. 🙅‍♂️"
+core_arsenal: [C++, Python, Java, SQL]
+mission: Architecting efficient algorithms & high-integrity database systems
+suit_power: 100% Vibranium Charged ⚡
 ```
 
-- 🎓 Currently pursuing Computer Science / Software Engineering fundamentals.
-- 💡 Passionate about building responsive web applications with clean UI and resilient backends.
-- 🧩 Actively practicing Data Structures & Algorithms on LeetCode.
-- 🤝 Always open to collaborating on innovative student projects, hackathons, and open source.
+- 🛡️ **Aspiring Software Engineer** passionate about deep computer science fundamentals, efficient memory management, and structured data systems.
+- ⚡ **Core Foundations:** Actively solving algorithmic challenges and building backend solutions in **C++**, **Python**, and **Java**.
+- 🗄️ **Database Design:** Designing robust relational schemas, optimized indexing, and queries using **SQL**.
+- 🤝 Open to software engineering internships, collaborative technical projects, and open-source contributions.
 
-<hr/>
+---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Shuri's Tech Lab (`Core Arsenal`)
 
 <div align="center">
 
-  <h4>Programming Languages</h4>
+  <h4>Core Programming Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="Programming Languages" />
   </a>
 
   <br/><br/>
 
-  <h4>Frontend & Frameworks</h4>
+  <h4>Databases & Query Architecture</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
   </a>
 
   <br/><br/>
 
-  <h4>Backend, Databases & Cloud</h4>
+  <h4>Development Environment & Version Control</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,mysql" alt="Backend & DB" />
-  </a>
-
-  <br/><br/>
-
-  <h4>Tools & Environments</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools & Environment" />
   </a>
 
 </div>
 
-<hr/>
+<br/>
 
-### 🐍 GitHub Contribution Snake
+<div align="center">
+  <img src="assets/wakanda-necklace.svg" width="70%" alt="Vibranium Divider" />
+</div>
+
+---
+
+### 🐍 Kinetic Energy Grid (`Contribution Matrix`)
 
 <div align="center">
   <picture>
@@ -93,37 +104,42 @@ fun_fact: "Turning coffee and curiosity into clean, functional code ☕💻"
   </picture>
 </div>
 
-<hr/>
+---
 
-### 📊 GitHub Activity & Statistics
+### ⚡ Kinetic Telemetry (`Engineering Activity`)
 
 <div align="center">
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fredolin's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&bg_color=0B0B14&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=3C1361&count_private=true" alt="Nigish's GitHub Stats" />
   </a>
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&background=0B0B14&border=3C1361&stroke=3C1361&ring=C77DFF&fire=9D4EDD&currStreakNum=C77DFF&sideNums=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=9D4EDD" alt="GitHub Streak" />
   </a>
   <br/><br/>
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredolin0109-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredolin0109-hub&layout=compact&bg_color=0B0B14&title_color=C77DFF&text_color=E0AAFF&border_color=3C1361" alt="Top Languages" />
   </a>
 </div>
 
-<hr/>
+---
 
-### 🌟 Featured Projects
+### 📋 Mission Directives (`Featured Projects`)
 
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Arsenal | Mission Brief | Repository |
 | :--- | :--- | :--- | :--- |
-| **Project Alpha** | `React`, `Node.js`, `MongoDB` | Full-stack web app with authentication & real-time updates | [Demo](#) · [Code](#) |
-| **Project Beta** | `TypeScript`, `Next.js`, `Tailwind` | Modern, responsive portfolio web app with dark mode | [Demo](#) · [Code](#) |
-| **Project Gamma** | `Python`, `FastAPI`, `PostgreSQL` | REST API with JWT authentication & comprehensive test suite | [Demo](#) · [Code](#) |
+| **Project 01** | `C++`, `Data Structures` | High-performance algorithm implementation with optimized memory management | [View Source](#) |
+| **Project 02** | `Python`, `SQL` | Automated data pipeline & relational database querying system | [View Source](#) |
+| **Project 03** | `Java`, `OOP` | Object-oriented application system with clean design patterns | [View Source](#) |
 
-*(Update these with your actual top 2-3 GitHub projects!)*
+*(Update these with your real repository links as your projects deploy!)*
 
-<hr/>
+<br/>
+
+---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/fredolin0109-hub">Fredolin</a></sub>
+  <img src="assets/wakanda-necklace.svg" width="50%" alt="Wakanda Salute" />
+  <br/>
+  <h3>🙅‍♂️ WAKANDA FOREVER • CODING FOREVER 🙅‍♂️</h3>
+  <sub>Engineered with Vibranium by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
 </div>
