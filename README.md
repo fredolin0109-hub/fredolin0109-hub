@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Engineering Velocity Wave (100% Transparent Telemetry) -->
-  <img src="assets/velocity-wave.svg" width="100%" alt="Engineering Velocity Wave" />
+  <img src="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/main/assets/velocity-wave.svg" width="100%" alt="Engineering Velocity Wave" />
 
   <h1>Nigish Fredolin</h1>
 
@@ -54,11 +54,11 @@ open_for: Software Engineering Internships & Collaborative Technical Projects
 
 > **AegisTrace** is a specialized tracing and system analysis engine engineered for observability, data verification, and robust operational tracking.
 
-#### 🎥 Video Demonstration
+#### 🎥 System Telemetry & Demonstration
 <div align="center">
-  <video src="assets/aegistrace-demo.mp4" controls width="100%" style="max-width: 780px; border-radius: 8px; border: 1px solid #1E293B;">
-    Your browser does not support the video tag. Drop your video into assets/aegistrace-demo.mp4 to display here.
-  </video>
+  <a href="https://github.com/fredolin0109-hub">
+    <img src="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/main/assets/aegistrace-banner.svg" width="100%" alt="AegisTrace System Architecture & Demo" />
+  </a>
 </div>
 
 <br/>

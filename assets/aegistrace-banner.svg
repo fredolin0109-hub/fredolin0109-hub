@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Cyan & Indigo Cybernetic Glow -->
+    <filter id="card-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="cyber-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+
+    <linearGradient id="core-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0.95" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulse-signal {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; filter: drop-shadow(0 0 6px #38BDF8); }
+    }
+    .signal-ping {
+      animation: pulse-signal 2.5s ease-in-out infinite;
+    }
+    @keyframes scan-sweep {
+      0% { transform: translateY(0px); opacity: 0; }
+      50% { opacity: 0.5; }
+      100% { transform: translateY(180px); opacity: 0; }
+    }
+    .scanline {
+      animation: scan-sweep 4s linear infinite;
+    }
+  </style>
+
+  <!-- Container Panel Frame -->
+  <rect x="10" y="10" width="780" height="200" rx="12" fill="url(#core-bg)" stroke="url(#cyber-border)" stroke-width="1.8" />
+
+  <!-- Terminal Top Bar -->
+  <line x1="10" y1="46" x2="790" y2="46" stroke="#1E293B" stroke-width="1.5" />
+  <circle cx="34" cy="28" r="4.5" fill="#EF4444" />
+  <circle cx="50" cy="28" r="4.5" fill="#F59E0B" />
+  <circle cx="66" cy="28" r="4.5" fill="#10B981" />
+
+  <text x="90" y="32" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="12" font-weight="600">
+    aegistrace --runtime=active --engine=v2.4
+  </text>
+  
+  <text x="750" y="32" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="700" text-anchor="end">
+    [LIVE MONITOR]
+  </text>
+
+  <!-- Left Side: System Telemetry Console Output -->
+  <g font-family="'Fira Code', monospace" font-size="12">
+    <text x="35" y="80" fill="#38BDF8">▶ INIT_TRACE_SUBSYSTEM()</text>
+    <text x="35" y="104" fill="#E2E8F0">  [OK] C++ Memory Arena Allocated: 64MB Direct Heap</text>
+    <text x="35" y="128" fill="#E2E8F0">  [OK] Python Telemetry Dispatcher: 0.2ms latency</text>
+    <text x="35" y="152" fill="#E2E8F0">  [OK] SQL Transaction Audit Log: Active Connection Pool</text>
+    <text x="35" y="180" fill="#10B981" font-weight="700">● STATUS: Observability Engine Running with 0 Dropped Packets</text>
+  </g>
+
+  <!-- Right Side: Visual Oscilloscope / Pulse Trace -->
+  <g transform="translate(560, 60)">
+    <rect x="0" y="0" width="200" height="120" rx="8" fill="#020617" stroke="#1E293B" stroke-width="1.2" />
+    <text x="100" y="24" fill="#64748B" font-family="'Fira Code', monospace" font-size="10" text-anchor="middle">PACKET FLOW FREQUENCY</text>
+    
+    <!-- Heartbeat Trace Wave -->
+    <path d="M 15 70 L 45 70 L 60 40 L 75 95 L 90 55 L 105 75 L 120 70 L 185 70" 
+          stroke="#38BDF8" stroke-width="2" fill="none" class="signal-ping" />
+          
+    <circle cx="75" cy="95" r="3" fill="#FFFFFF" class="signal-ping" />
+    <text x="100" y="106" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="9" text-anchor="middle">STREAM VERIFIED</text>
+  </g>
+</svg>
