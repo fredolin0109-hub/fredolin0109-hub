@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="320" fill="none">
+  <defs>
+    <!-- Cyan & Electric Blue Glow Filter -->
+    <filter id="hyper-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur1" />
+      <feGaussianBlur stdDeviation="8" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="cyan-electric" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+
+    <linearGradient id="hyperspace-core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* Full 3D/4D Rotation of Outer Assembly */
+    @keyframes rotate-tesseract-4d {
+      0% {
+        transform: rotate(0deg) scale(1);
+      }
+      50% {
+        transform: rotate(180deg) scale(1.05);
+      }
+      100% {
+        transform: rotate(360deg) scale(1);
+      }
+    }
+
+    .tesseract-assembly {
+      transform-origin: 250px 250px;
+      animation: rotate-tesseract-4d 18s linear infinite;
+    }
+
+    /* 4D Inner Cube Hyper-Pulse (Inversion Cycle) */
+    @keyframes inner-hypercube-pulse {
+      0%, 100% {
+        transform: scale(0.48) rotate(0deg);
+        opacity: 0.8;
+      }
+      50% {
+        transform: scale(0.72) rotate(-45deg);
+        opacity: 1;
+        filter: drop-shadow(0 0 10px #38BDF8);
+      }
+    }
+
+    .inner-cube-group {
+      transform-origin: 250px 250px;
+      animation: inner-hypercube-pulse 6s ease-in-out infinite;
+    }
+
+    /* Edge Pulse Energy Wave */
+    @keyframes edge-energy {
+      0%, 100% { stroke-opacity: 0.55; stroke-width: 1.5; }
+      50% { stroke-opacity: 1; stroke-width: 2.2; filter: drop-shadow(0 0 6px #38BDF8); }
+    }
+
+    .hyper-edge {
+      animation: edge-energy 3s ease-in-out infinite alternate;
+    }
+
+    /* Vertex Node Sparkle */
+    @keyframes vertex-glow {
+      0%, 100% { r: 3.5; opacity: 0.75; }
+      50% { r: 5.5; opacity: 1; filter: drop-shadow(0 0 8px #E0F2FE); }
+    }
+
+    .node-sparkle {
+      animation: vertex-glow 2.5s ease-in-out infinite alternate;
+    }
+
+    /* Orbiting Quantum Electrons / Data Particles */
+    @keyframes orbit-ring {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .orbit-particles {
+      transform-origin: 250px 250px;
+      animation: orbit-ring 12s linear infinite;
+    }
+  </style>
+
+  <!-- Ambient Orbit Track (Pure Transparent Void) -->
+  <circle cx="250" cy="250" r="185" stroke="#0284C7" stroke-width="1" stroke-dasharray="4 8" opacity="0.3" />
+  
+  <g class="orbit-particles">
+    <circle cx="250" cy="65" r="3" fill="#38BDF8" filter="url(#hyper-glow)" />
+    <circle cx="250" cy="435" r="3" fill="#818CF8" filter="url(#hyper-glow)" />
+  </g>
+
+  <!-- Entire Tesseract Hyper-Rotation Group -->
+  <g class="tesseract-assembly">
+
+    <!-- ==================== OUTER CUBE (Projection) ==================== -->
+    <!-- Front Face -->
+    <polygon points="150,150 350,150 350,350 150,350" stroke="url(#cyan-electric)" stroke-width="2" class="hyper-edge" />
+    
+    <!-- Back Face (Isometric Offset) -->
+    <polygon points="190,110 390,110 390,310 190,310" stroke="#0369A1" stroke-width="1.8" stroke-dasharray="6 4" opacity="0.75" />
+
+    <!-- Connecting Depth Edges of Outer Cube -->
+    <line x1="150" y1="150" x2="190" y2="110" stroke="url(#cyan-electric)" stroke-width="1.8" />
+    <line x1="350" y1="150" x2="390" y2="110" stroke="url(#cyan-electric)" stroke-width="1.8" />
+    <line x1="350" y1="350" x2="390" y2="310" stroke="url(#cyan-electric)" stroke-width="1.8" />
+    <line x1="150" y1="350" x2="190" y2="310" stroke="url(#cyan-electric)" stroke-width="1.8" />
+
+    <!-- ==================== 4D CONNECTING HYPER-EDGES ==================== -->
+    <!-- Connecting Outer Cube to Inner Cube Vertices (The 4D Struts) -->
+    <line x1="150" y1="150" x2="210" y2="210" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="3 3" class="hyper-edge" />
+    <line x1="350" y1="150" x2="290" y2="210" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="3 3" class="hyper-edge" />
+    <line x1="350" y1="350" x2="290" y2="290" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="3 3" class="hyper-edge" />
+    <line x1="150" y1="350" x2="210" y2="290" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="3 3" class="hyper-edge" />
+
+    <line x1="190" y1="110" x2="226" y2="194" stroke="#0284C7" stroke-width="1.4" opacity="0.7" />
+    <line x1="390" y1="110" x2="306" y2="194" stroke="#0284C7" stroke-width="1.4" opacity="0.7" />
+    <line x1="390" y1="310" x2="306" y2="274" stroke="#0284C7" stroke-width="1.4" opacity="0.7" />
+    <line x1="190" y1="310" x2="226" y2="274" stroke="#0284C7" stroke-width="1.4" opacity="0.7" />
+
+    <!-- ==================== INNER CUBE (Hyper-Core) ==================== -->
+    <g class="inner-cube-group">
+      <!-- Inner Front Face -->
+      <polygon points="210,210 290,210 290,290 210,290" stroke="#E0F2FE" stroke-width="2.2" filter="url(#hyper-glow)" />
+      
+      <!-- Inner Back Face -->
+      <polygon points="226,194 306,194 306,274 226,274" stroke="#38BDF8" stroke-width="1.8" opacity="0.85" />
+
+      <!-- Inner Depth Connecting Edges -->
+      <line x1="210" y1="210" x2="226" y2="194" stroke="#E0F2FE" stroke-width="2" />
+      <line x1="290" y1="210" x2="306" y2="194" stroke="#E0F2FE" stroke-width="2" />
+      <line x1="290" y1="290" x2="306" y2="274" stroke="#E0F2FE" stroke-width="2" />
+      <line x1="210" y1="290" x2="226" y2="274" stroke="#E0F2FE" stroke-width="2" />
+
+      <!-- Central Quantum Singularity / Core Node -->
+      <circle cx="258" cy="242" r="4.5" fill="#FFFFFF" filter="url(#hyper-glow)" />
+    </g>
+
+    <!-- ==================== VERTEX DATA NODES (The 8 Outer Vertices) ==================== -->
+    <circle cx="150" cy="150" fill="url(#hyperspace-core)" class="node-sparkle" />
+    <circle cx="350" cy="150" fill="url(#hyperspace-core)" class="node-sparkle" />
+    <circle cx="350" cy="350" fill="url(#hyperspace-core)" class="node-sparkle" />
+    <circle cx="150" cy="350" fill="url(#hyperspace-core)" class="node-sparkle" />
+
+    <circle cx="190" cy="110" fill="#38BDF8" class="node-sparkle" />
+    <circle cx="390" cy="110" fill="#38BDF8" class="node-sparkle" />
+    <circle cx="390" cy="310" fill="#38BDF8" class="node-sparkle" />
+    <circle cx="190" cy="310" fill="#38BDF8" class="node-sparkle" />
+
+  </g>
+</svg>

@@ -1,40 +1,30 @@
 <div align="center">
 
-  <!-- Asgardian Thunder Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:082f49,70:0284c7,100:38bdf8&height=220&section=header&text=NIGISH%20FREDOLIN&fontSize=52&fontColor=e0f2fe&animation=twinkling&desc=%E2%9A%A1%20GOD%20OF%20THUNDER%20%E2%80%A2%20LORD%20OF%20ASGARD%20%E2%9A%A1&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Nigish Fredolin Thor Header" />
+  <!-- 4D Wireframe Tesseract (100% Transparent Vector) -->
+  <img src="assets/tesseract.svg" width="280" alt="4D Wireframe Tesseract" />
 
-  <br/>
+  <h1>Nigish Fredolin</h1>
 
-  <!-- Stormbreaker Roaming Across the Page -->
-  <img src="assets/stormbreaker-roaming.svg" width="100%" alt="Stormbreaker Roaming With Lightning" />
-
-  <br/><br/>
-
-  <!-- Thor Summoning Lightning with Stormbreaker -->
-  <img src="assets/thor.gif" width="340" alt="Thor Summoning Lightning with Stormbreaker" style="border-radius: 14px; border: 2px solid #0284c7;" />
-
-  <br/><br/>
-
-  <!-- Animated Lightning Speech Banner -->
+  <!-- Dynamic Typing Headline -->
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=550&lines=%E2%9A%A1+BRING+ME+THANOS!+%E2%9A%A1;%F0%9F%94%A8+FORGING+CODE+WORTHY+OF+STORMBREAKER;%F0%9F%94%A5+SOLVING+PROBLEMS+IN+C%2B%2B%2C+PYTHON+%26+JAVA;%F0%9F%8C%8C+DEFENDING+THE+REALMS+THROUGH+CLEAN+CODE" alt="Thor Speech Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=550&lines=Software+Engineer+%E2%80%A2+Problem+Solver;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL;Architecting+Robust+Backend+%26+Data+Systems;Turning+Complex+Logic+Into+Clean+Code" alt="Nigish Fredolin - Subtitle" />
   </a>
 
   <br/><br/>
 
-  <!-- Thunder Badges in Electric Blue & Navy -->
-  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=0284c7&style=for-the-badge&label=THUNDER+POWER" alt="Profile Views" />
+  <!-- Professional Badges -->
+  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=0284c7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/nigish-fredolin-87185837a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:fredlin0109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>
@@ -43,45 +33,63 @@
 
 ---
 
-### 📜 Asgardian Codex (`About Me`)
+### 💡 About Me
 
 ```yaml
-identity: Nigish Fredolin
-title: God of Thunder • Aspiring Software Engineer
-motto: "I choose to run towards my problems, and not away from them. Because that's what heroes do. ⚡"
-core_arsenal: [C++, Python, Java, SQL]
-mission: Forging high-performance algorithms & rock-solid relational architectures
-weapon_of_choice: Stormbreaker & Clean Architecture 🔨
+name: Nigish Fredolin
+role: Aspiring Software Engineer & Problem Solver
+core_stack: [C++, Python, Java, SQL]
+interests: [Algorithms, Data Structures, Relational Database Design, System Architecture]
+open_for: Software Engineering Internships & Collaborative Technical Projects
 ```
 
-- ⚡ **Aspiring Software Engineer** wielding deep computer science fundamentals, efficient memory control, and resilient backend systems.
-- 🔨 **Core Foundations:** Actively solving algorithmic challenges and architecting programs in **C++**, **Python**, and **Java**.
-- 🗄️ **Database Architecture:** Designing structured schemas, optimized indexing, and robust queries using **SQL**.
-- 🌌 Open to software engineering internships, collaborative technical projects, and open-source contributions.
+- 🧩 **Algorithmic Problem Solving:** Passionate about computer science fundamentals, algorithm efficiency, and clean code principles.
+- ⚙️ **Core Engineering:** Developing software and backend services using **C++**, **Python**, and **Java**.
+- 🗄️ **Data Persistence:** Architecting normalized schemas, indexed queries, and relational data operations in **SQL**.
+- 🚀 Committed to building maintainable, scalable, and well-documented software solutions.
 
 ---
 
-### ⚡ Nidavellir Armory (`Core Arsenal`)
+### 🛡️ Flagship Project: AegisTrace
+
+> **AegisTrace** is a specialized tracing and system analysis engine engineered for observability, data verification, and robust operational tracking.
+
+#### 🎥 Video Demonstration
+<div align="center">
+  <video src="assets/aegistrace-demo.mp4" controls width="100%" style="max-width: 780px; border-radius: 8px; border: 1px solid #1E293B;">
+    Your browser does not support the video tag. Drop your video into assets/aegistrace-demo.mp4 to display here.
+  </video>
+</div>
+
+<br/>
+
+| Technical Highlights | Core Arsenal | Repository |
+| :--- | :--- | :--- |
+| **Systems Tracing & Data Observability** | `C++` · `Python` · `SQL` | [Source Repository](https://github.com/fredolin0109-hub) |
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
   <h4>Core Programming Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="Languages" />
   </a>
 
   <br/><br/>
 
-  <h4>Databases & Query Architecture</h4>
+  <h4>Databases & Relational Architecture</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
   </a>
 
   <br/><br/>
 
-  <h4>Development Environment & Version Control</h4>
+  <h4>Development Tools & Version Control</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
   </a>
 
 </div>
@@ -90,26 +98,14 @@ weapon_of_choice: Stormbreaker & Clean Architecture 🔨
 
 ---
 
-### 🐍 Bifrost Energy Grid (`Contribution Matrix`)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fredolin0109-hub/fredolin0109-hub/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-### 🌌 Realm Telemetry (`Engineering Activity`)
+### 📊 Engineering Activity & Telemetry
 
 <div align="center">
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=FBBF24&border_color=1E293B&count_private=true" alt="Nigish's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=1E293B&count_private=true" alt="Nigish's GitHub Stats" />
   </a>
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&background=0D1117&border=1E293B&stroke=1E293B&ring=38BDF8&fire=FBBF24&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=0284C7" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&background=0D1117&border=1E293B&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=0284C7" alt="GitHub Streak" />
   </a>
   <br/><br/>
   <a href="https://github.com/fredolin0109-hub">
@@ -119,24 +115,18 @@ weapon_of_choice: Stormbreaker & Clean Architecture 🔨
 
 ---
 
-### 🔨 Forged in Nidavellir (`Featured Projects`)
+### 📂 Featured Technical Projects
 
-| Project | Tech Arsenal | Mission Brief | Repository |
+| Project | Technologies | Focus & Architectural Scope | Source |
 | :--- | :--- | :--- | :--- |
-| **Project 01** | `C++`, `Data Structures` | High-performance algorithm implementation with optimized memory management | [View Source](#) |
-| **Project 02** | `Python`, `SQL` | Automated data pipeline & relational database querying system | [View Source](#) |
-| **Project 03** | `Java`, `OOP` | Object-oriented application system with clean design patterns | [View Source](#) |
-
-*(Update these with your real repository links as your projects deploy!)*
+| **High-Performance Algorithm Suite** | `C++` · `STL` | Memory-optimized data structures and benchmarking suite | [Repository](#) |
+| **Automated Data Processing Pipeline** | `Python` · `SQL` | Relational database ingestion, schema migrations, and indexing | [Repository](#) |
+| **Object-Oriented Enterprise Core** | `Java` · `Design Patterns` | Modular, maintainable application built on clean OOP paradigms | [Repository](#) |
 
 <br/>
 
 ---
 
 <div align="center">
-  <!-- Stormbreaker Roaming Flight Divider -->
-  <img src="assets/stormbreaker-roaming.svg" width="80%" alt="Stormbreaker Flight" />
-  <br/>
-  <h3>⚡ FOR ASGARD • CODING WORTHY ⚡</h3>
-  <sub>Forged with Thunder by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
+  <sub>Designed with precision by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
 </div>
