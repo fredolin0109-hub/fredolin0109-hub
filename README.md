@@ -3,15 +3,10 @@
   <!-- Top Hero Header Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b14,40:240046,70:3c1361,100:7b2cbf&height=220&section=header&text=NIGISH%20FREDOLIN&fontSize=52&fontColor=e0aaff&animation=twinkling&desc=%E2%9A%A1%20WAKANDA%20FOREVER%20%E2%80%A2%20CODING%20FOREVER%20%F0%9F%99%85%E2%80%8D%E2%99%82%EF%B8%8F&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Nigish Fredolin Wakanda Header" />
 
-  <br/>
-
-  <!-- Iconic Wakanda Claw Necklace -->
-  <img src="assets/wakanda-necklace.svg" width="90%" alt="Wakanda Vibranium Claw Necklace" />
-
   <br/><br/>
 
-  <!-- Actual Movie Black Panther (Wakanda Salute) -->
-  <img src="assets/black-panther.gif" width="250" alt="Black Panther Wakanda Forever" />
+  <!-- Real Cinematic Black Panther Helmet & Vibranium Claw Necklace -->
+  <img src="assets/black-panther-suit-purple.jpg" width="280" alt="Black Panther Helmet & Vibranium Claw Necklace" style="border-radius: 16px;" />
 
   <br/><br/>
 
@@ -88,10 +83,6 @@ suit_power: 100% Vibranium Charged ⚡
 
 <br/>
 
-<div align="center">
-  <img src="assets/wakanda-necklace.svg" width="70%" alt="Vibranium Divider" />
-</div>
-
 ---
 
 ### 🐍 Kinetic Energy Grid (`Contribution Matrix`)
@@ -138,8 +129,8 @@ suit_power: 100% Vibranium Charged ⚡
 ---
 
 <div align="center">
-  <img src="assets/wakanda-necklace.svg" width="50%" alt="Wakanda Salute" />
-  <br/>
+  <img src="assets/black-panther-real-mask.jpg" width="220" alt="Black Panther Mask and Necklace" style="border-radius: 12px;" />
+  <br/><br/>
   <h3>🙅‍♂️ WAKANDA FOREVER • CODING FOREVER 🙅‍♂️</h3>
   <sub>Engineered with Vibranium by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
 </div>
