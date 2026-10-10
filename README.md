@@ -1,35 +1,40 @@
 <div align="center">
 
-  <!-- Top Hero Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b14,40:240046,70:3c1361,100:7b2cbf&height=220&section=header&text=NIGISH%20FREDOLIN&fontSize=52&fontColor=e0aaff&animation=twinkling&desc=%E2%9A%A1%20WAKANDA%20FOREVER%20%E2%80%A2%20CODING%20FOREVER%20%F0%9F%99%85%E2%80%8D%E2%99%82%EF%B8%8F&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Nigish Fredolin Wakanda Header" />
+  <!-- Asgardian Thunder Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:082f49,70:0284c7,100:38bdf8&height=220&section=header&text=NIGISH%20FREDOLIN&fontSize=52&fontColor=e0f2fe&animation=twinkling&desc=%E2%9A%A1%20GOD%20OF%20THUNDER%20%E2%80%A2%20LORD%20OF%20ASGARD%20%E2%9A%A1&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Nigish Fredolin Thor Header" />
+
+  <br/>
+
+  <!-- Stormbreaker Roaming Across the Page -->
+  <img src="assets/stormbreaker-roaming.svg" width="100%" alt="Stormbreaker Roaming With Lightning" />
 
   <br/><br/>
 
-  <!-- Real Cinematic Black Panther Helmet & Vibranium Claw Necklace -->
-  <img src="assets/black-panther-suit-purple.jpg" width="280" alt="Black Panther Helmet & Vibranium Claw Necklace" style="border-radius: 16px;" />
+  <!-- Thor Summoning Lightning with Stormbreaker -->
+  <img src="assets/thor.gif" width="340" alt="Thor Summoning Lightning with Stormbreaker" style="border-radius: 14px; border: 2px solid #0284c7;" />
 
   <br/><br/>
 
-  <!-- Animated Speech Banner -->
+  <!-- Animated Lightning Speech Banner -->
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=1000&color=C77DFF&background=0B0B1400&center=true&vCenter=true&width=550&lines=%E2%9A%94%EF%B8%8F+CODING+FOREVER+%F0%9F%99%85%E2%80%8D%E2%99%82%EF%B8%8F;%E2%9A%A1+VIBRANIUM-POWERED+DEVELOPER;%F0%9F%94%A5+SOLVING+PROBLEMS+IN+C%2B%2B%2C+PYTHON+%26+JAVA;%F0%9F%9B%A1%EF%B8%8F+IN+TIMES+OF+CRISIS%2C+THE+WISE+BUILD+BRIDGES" alt="Black Panther - Coding Forever" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=550&lines=%E2%9A%A1+BRING+ME+THANOS!+%E2%9A%A1;%F0%9F%94%A8+FORGING+CODE+WORTHY+OF+STORMBREAKER;%F0%9F%94%A5+SOLVING+PROBLEMS+IN+C%2B%2B%2C+PYTHON+%26+JAVA;%F0%9F%8C%8C+DEFENDING+THE+REALMS+THROUGH+CLEAN+CODE" alt="Thor Speech Banner" />
   </a>
 
   <br/><br/>
 
-  <!-- Badges in Obsidian & Purple -->
-  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=7B2CBF&style=for-the-badge&label=VIBRANIUM+POWER" alt="Profile Views" />
+  <!-- Thunder Badges in Electric Blue & Navy -->
+  <img src="https://komarev.com/ghpvc/?username=fredolin0109-hub&color=0284c7&style=for-the-badge&label=THUNDER+POWER" alt="Profile Views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/nigish-fredolin-87185837a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:fredlin0109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-3C1361?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://img.shields.io/badge/GitHub-0B0B14?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
 
 </div>
@@ -38,25 +43,25 @@
 
 ---
 
-### 🧬 Vibranium Protocols (`About Me`)
+### 📜 Asgardian Codex (`About Me`)
 
 ```yaml
 identity: Nigish Fredolin
-status: Aspiring Software Engineer & Problem Solver
-motto: "In times of crisis, the wise build bridges, while the foolish build barriers. 🙅‍♂️"
+title: God of Thunder • Aspiring Software Engineer
+motto: "I choose to run towards my problems, and not away from them. Because that's what heroes do. ⚡"
 core_arsenal: [C++, Python, Java, SQL]
-mission: Architecting efficient algorithms & high-integrity database systems
-suit_power: 100% Vibranium Charged ⚡
+mission: Forging high-performance algorithms & rock-solid relational architectures
+weapon_of_choice: Stormbreaker & Clean Architecture 🔨
 ```
 
-- 🛡️ **Aspiring Software Engineer** passionate about deep computer science fundamentals, efficient memory management, and structured data systems.
-- ⚡ **Core Foundations:** Actively solving algorithmic challenges and building backend solutions in **C++**, **Python**, and **Java**.
-- 🗄️ **Database Design:** Designing robust relational schemas, optimized indexing, and queries using **SQL**.
-- 🤝 Open to software engineering internships, collaborative technical projects, and open-source contributions.
+- ⚡ **Aspiring Software Engineer** wielding deep computer science fundamentals, efficient memory control, and resilient backend systems.
+- 🔨 **Core Foundations:** Actively solving algorithmic challenges and architecting programs in **C++**, **Python**, and **Java**.
+- 🗄️ **Database Architecture:** Designing structured schemas, optimized indexing, and robust queries using **SQL**.
+- 🌌 Open to software engineering internships, collaborative technical projects, and open-source contributions.
 
 ---
 
-### 🚀 Shuri's Tech Lab (`Core Arsenal`)
+### ⚡ Nidavellir Armory (`Core Arsenal`)
 
 <div align="center">
 
@@ -85,7 +90,7 @@ suit_power: 100% Vibranium Charged ⚡
 
 ---
 
-### 🐍 Kinetic Energy Grid (`Contribution Matrix`)
+### 🐍 Bifrost Energy Grid (`Contribution Matrix`)
 
 <div align="center">
   <picture>
@@ -97,24 +102,24 @@ suit_power: 100% Vibranium Charged ⚡
 
 ---
 
-### ⚡ Kinetic Telemetry (`Engineering Activity`)
+### 🌌 Realm Telemetry (`Engineering Activity`)
 
 <div align="center">
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&bg_color=0B0B14&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=3C1361&count_private=true" alt="Nigish's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fredolin0109-hub&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&icon_color=FBBF24&border_color=1E293B&count_private=true" alt="Nigish's GitHub Stats" />
   </a>
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&background=0B0B14&border=3C1361&stroke=3C1361&ring=C77DFF&fire=9D4EDD&currStreakNum=C77DFF&sideNums=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=9D4EDD" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=fredolin0109-hub&background=0D1117&border=1E293B&stroke=1E293B&ring=38BDF8&fire=FBBF24&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=0284C7" alt="GitHub Streak" />
   </a>
   <br/><br/>
   <a href="https://github.com/fredolin0109-hub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredolin0109-hub&layout=compact&bg_color=0B0B14&title_color=C77DFF&text_color=E0AAFF&border_color=3C1361" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredolin0109-hub&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_color=1E293B" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-### 📋 Mission Directives (`Featured Projects`)
+### 🔨 Forged in Nidavellir (`Featured Projects`)
 
 | Project | Tech Arsenal | Mission Brief | Repository |
 | :--- | :--- | :--- | :--- |
@@ -129,8 +134,9 @@ suit_power: 100% Vibranium Charged ⚡
 ---
 
 <div align="center">
-  <img src="assets/black-panther-real-mask.jpg" width="220" alt="Black Panther Mask and Necklace" style="border-radius: 12px;" />
-  <br/><br/>
-  <h3>🙅‍♂️ WAKANDA FOREVER • CODING FOREVER 🙅‍♂️</h3>
-  <sub>Engineered with Vibranium by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
+  <!-- Stormbreaker Roaming Flight Divider -->
+  <img src="assets/stormbreaker-roaming.svg" width="80%" alt="Stormbreaker Flight" />
+  <br/>
+  <h3>⚡ FOR ASGARD • CODING WORTHY ⚡</h3>
+  <sub>Forged with Thunder by <a href="https://github.com/fredolin0109-hub">Nigish Fredolin</a></sub>
 </div>
