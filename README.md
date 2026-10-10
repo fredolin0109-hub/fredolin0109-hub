@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 4D Wireframe Tesseract (100% Transparent Vector) -->
-  <img src="assets/tesseract.svg" width="280" alt="4D Wireframe Tesseract" />
+  <!-- Engineering Velocity Wave (100% Transparent Telemetry) -->
+  <img src="assets/velocity-wave.svg" width="100%" alt="Engineering Velocity Wave" />
 
   <h1>Nigish Fredolin</h1>
 

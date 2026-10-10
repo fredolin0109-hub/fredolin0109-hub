@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="100%" height="170" fill="none">
+  <defs>
+    <!-- Cyan & Electric Blue Neon Glow Filters -->
+    <filter id="wave-glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="gradient-wave-primary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.2" />
+      <stop offset="30%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="70%" stop-color="#818CF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.2" />
+    </linearGradient>
+
+    <linearGradient id="gradient-wave-secondary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.1" />
+      <stop offset="40%" stop-color="#818CF8" stop-opacity="0.75" />
+      <stop offset="80%" stop-color="#38BDF8" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* Continuous Horizontal Velocity Translation */
+    @keyframes wave-flow-1 {
+      0% {
+        transform: translateX(0px);
+      }
+      100% {
+        transform: translateX(-450px);
+      }
+    }
+
+    @keyframes wave-flow-2 {
+      0% {
+        transform: translateX(0px);
+      }
+      100% {
+        transform: translateX(450px);
+      }
+    }
+
+    .velocity-stream-1 {
+      animation: wave-flow-1 9s linear infinite;
+    }
+
+    .velocity-stream-2 {
+      animation: wave-flow-2 13s linear infinite;
+    }
+
+    /* Pulsing Data Node on Wave Crest */
+    @keyframes pulse-node {
+      0%, 100% {
+        transform: scale(0.9);
+        opacity: 0.7;
+      }
+      50% {
+        transform: scale(1.3);
+        opacity: 1;
+        filter: drop-shadow(0 0 8px #38BDF8);
+      }
+    }
+
+    .data-node {
+      animation: pulse-node 2.2s ease-in-out infinite alternate;
+    }
+  </style>
+
+  <!-- Baseline Ambient Axis Guide (Hollow / 100% Transparent) -->
+  <line x1="0" y1="85" x2="900" y2="85" stroke="#1E293B" stroke-width="1" stroke-dasharray="6 8" opacity="0.6" />
+
+  <!-- Secondary Counter-Phase Harmonic Wave -->
+  <g class="velocity-stream-2" opacity="0.65">
+    <path d="M -450 85 Q -337.5 35, -225 85 T 0 85 T 225 85 T 450 85 T 675 85 T 900 85 T 1125 85 T 1350 85" 
+          stroke="url(#gradient-wave-secondary)" stroke-width="2" fill="none" stroke-dasharray="10 5" />
+  </g>
+
+  <!-- Primary Engineering Velocity Wave (Seamless Endless Loop) -->
+  <g class="velocity-stream-1" filter="url(#wave-glow)">
+    <path d="M 0 85 Q 112.5 15, 225 85 T 450 85 T 675 85 T 900 85 T 1125 85 T 1350 85" 
+          stroke="url(#gradient-wave-primary)" stroke-width="3" fill="none" />
+          
+    <!-- Dynamic Data Nodes on Wave Peaks & Valleys -->
+    <circle cx="112.5" cy="50" r="4" fill="#FFFFFF" class="data-node" />
+    <circle cx="337.5" cy="120" r="3.5" fill="#38BDF8" class="data-node" />
+    <circle cx="562.5" cy="50" r="4" fill="#FFFFFF" class="data-node" />
+    <circle cx="787.5" cy="120" r="3.5" fill="#38BDF8" class="data-node" />
+    <circle cx="1012.5" cy="50" r="4" fill="#FFFFFF" class="data-node" />
+  </g>
+
+  <!-- Left & Right Gradient Mask Edges for Natural Falloff into Void -->
+  <rect x="0" y="0" width="60" height="170" fill="url(#edge-fade-left)" opacity="0" />
+</svg>
