@@ -10,8 +10,8 @@
 
   <br/><br/>
 
-  <!-- Animated Black Panther Mask -->
-  <img src="assets/black-panther-mask.svg" width="160" alt="Black Panther Mask with Vibranium Kinetic Glow" />
+  <!-- Actual Movie Black Panther (Wakanda Salute) -->
+  <img src="assets/black-panther.gif" width="250" alt="Black Panther Wakanda Forever" />
 
   <br/><br/>
 
